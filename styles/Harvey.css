@@ -1,0 +1,76 @@
+body{
+	background-color:#009999;
+	font-size:x-large;
+	line-height: 1.5cm;
+	color: orange;
+	font-family: "Open Sans";
+    text-align: center;
+}
+
+
+h1{
+	color: #009999;
+	background-color: orange;
+	font-family: "Time New Roman";
+	text-align: center;
+}
+
+h2{
+	color: #009999;
+	background-color: orange;
+	font-family: "Times New Roman";
+	text-align: center;
+}
+
+h3{
+	color:darkblue;
+	font-family: "Arial Narrow";
+}
+
+a:link{
+	color:orange;
+}
+
+a:hover{
+	color:orange;
+}
+
+.style1{
+	line-height: 1.5cm;
+	padding: 5px;
+	text-align:justify;
+	font-size: small;
+}
+
+.style2{
+	line-height: 0.4cm;
+	padding: 5px;
+	text-align: left;
+	font-size: small;
+	color: #009999;
+}
+
+#menu{
+	text-decoration: none;
+	font-size: small;
+	font-family: "Arial Narrow";
+}
+
+ul li{
+	list-style-type: none;
+}
+
+ul a{
+	font-size:large;
+	display:block;
+	padding: 0;
+	text-decoration: none;
+	color: black;
+	list-style-type: none;
+}
+
+ul a:hover{
+	text-decoration: underline overline;
+	background-color: orange;
+	color: #ffffff;
+}

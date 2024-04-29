@@ -1,0 +1,85 @@
+body{
+	background-color:#111111;
+	font-size: 20;
+	line-height: 0.5cm;
+	color: black;
+	font-family: "Open Sans";
+    text-align: center;
+}
+
+table{
+	margin-left:auto;
+	margin-right:auto;
+	padding: none;
+	border: none;
+	background-color: #0099ff;
+	width: 800px;
+    text-align: center;
+}
+
+h1{
+	color: darkblue;
+	background-color: #0099ff;
+	font-family: "Tempus Sans ITC";
+	text-align: center;
+}
+
+h2{
+	color: darkblue;
+	background-color: #0099ff;
+	font-family: "Tempus Sans ITC";
+	text-align: center;
+}
+
+h3{
+	color:darkblue;
+	font-family: "Arial Narrow";
+}
+
+a:link{
+	color:darkblue;
+}
+
+a:hover{
+	color:darkblue;
+}
+
+.style1{
+	line-height: 0.5cm;
+	padding: 5px;
+	text-align:justify;
+	font-size: small;
+}
+
+.style2{
+	line-height: 0.5cm;
+	padding: 5px;
+	text-align: left;
+	font-size: small;
+	color: darkblue;
+}
+
+#menu{
+	text-decoration: none;
+	font-size: small;
+	font-family: "Arial Narrow";
+}
+
+ul li{
+	list-style-type: none;
+}
+
+ul a{
+	font-size:large;
+	display:block;
+	padding: 0;
+	text-decoration: none;
+	color: #0099ff;
+	list-style-type: none;
+}
+
+ul a:hover{
+	text-decoration: underline overline;
+	background-color: darkblue;
+	color: #ffffff;
+}

@@ -1,0 +1,72 @@
+
+body{
+	background-color:#ff5050;
+	font-size:x-large;
+	line-height: 1.5cm;
+	color: lightpink;
+	font-family: "Trebuchet MS (sans-seriff)";
+    text-align: center;
+}
+
+table{
+	margin-left:auto;
+	margin-right:auto;
+	padding: none;
+	border: none;
+	background-color: #e64670;
+	width: 800px;
+    text-align: center;
+}
+
+h1{
+	color: #e64670;
+	background-color: lightsalmon;
+	font-family: "Brush Script MT";
+	text-align: center;
+}
+
+h2{
+	color: #e64670;
+	background-color: lightsalmon;
+	font-family: "Brush Script MT";
+	text-align: center;
+}
+
+h3{
+	color:darkblue;
+	font-family: "Brush Script MT";
+}
+
+a:link{
+	color:darkblue;
+}
+
+a:hover{
+	color:darkblue;
+}
+
+.style1{
+	line-height: 1.5cm;
+	padding: 5px;
+	text-align:justify;
+	font-size: small;
+}
+
+.style2{
+	line-height: 0.4cm;
+	padding: 5px;
+	text-align: left;
+	font-size: small;
+	color: darkblue;
+}
+
+#menu{
+	text-decoration: none;
+	font-size: small;
+	font-family: "Brush Script MT";
+}
+
+ul li{
+	list-style-type: none;
+}
+
